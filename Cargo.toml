@@ -1,0 +1,10 @@
+[package]
+name = "imagesharp-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+glob = "0.3.1"
+image = "0.25.0"
+image-convert = "0.16.1"
+magick_rust = "0.20.0"
